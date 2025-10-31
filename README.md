@@ -19,6 +19,10 @@ The plugin adds a "Leak Audit" menu under Tools with three commands:
 - **Inspect BV by Index...**: Displays a filtered reference tree for a specific BinaryView
 - **Backrefs Graphs for All (objgraph)**: Generates visual reference graphs for all BinaryViews and displays them in an HTML report
 
+### Results
+
+![image](bv_backrefs.png)
+
 ### Use Cases:
 
 - Debugging plugin memory leaks
